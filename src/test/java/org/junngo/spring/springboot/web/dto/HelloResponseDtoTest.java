@@ -1,4 +1,4 @@
-package org.junngo.spring.springboot.dto;
+package org.junngo.spring.springboot.web.dto;
 
 import org.junit.Test;
 import org.junngo.spring.springboot.web.dto.HelloResponseDto;
