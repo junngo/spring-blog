@@ -1,4 +1,4 @@
-package org.junngo.spring.springboot;
+package org.junngo.spring.springboot.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
